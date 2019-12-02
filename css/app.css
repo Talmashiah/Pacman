@@ -1,0 +1,61 @@
+body {
+  background-image: linear-gradient(-90deg,rgb(250, 250, 250), rgb(78, 58, 16));
+  color: white;
+  text-align: center;
+}
+
+h3{
+  font-size: 50px;
+    margin: 11px;
+}
+
+.main-container{
+  position: relative;
+  margin: auto;
+  width: 500px;
+}
+
+.button-container{
+  position: absolute;
+  height: 500px;
+  width: 500px;
+  font-size: 131px;
+  top: 30px;
+}
+
+button{
+  height: 40px;
+  width: 150px;
+  border-radius: 15px;
+  background-color: white;
+  font-size: 18px;
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+
+}
+
+table{
+  margin: auto;
+  height: 500px;
+  width: 500px;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+  background-image: linear-gradient(-45deg, rgb(250, 250, 250), rgb(78, 58, 16));
+
+}
+
+.formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+}
+
+.hidden {
+  display: none;
+}
